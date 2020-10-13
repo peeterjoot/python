@@ -1,1 +1,3 @@
-pip3 install clifford
+(mac) : pip3 install clifford
+
+run with python3
