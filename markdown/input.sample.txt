@@ -1,0 +1,119 @@
+Global result for tests on branch f-master-LZLANG-1960-bindsql_packlist_safety
+Product tested sdm
+
+Branch f-master-LZLANG-1960-bindsql_packlist_safety is 0 commit(s) behind target branch master
+
+Tests suite	Tests OK	Tests KO	Total test executed	
+arclight__automation	34	0	34
+arclight__configuration	4	0	4
+arclight__configuration2	5	0	5
+arclight__integration	268	0	268
+dhzide	1	0	1
+epiphanyrdbcobol	1	0	1
+epiphanyvsamcobol	4	0	4
+epiphanyvsampl1	6	0	6
+gcc-build	1	0	1
+hdbtm__ops	2	0	2
+hdbtm__trans1	17	0	17
+hdbtm__trans2	3	0	3
+hdbtm_bmp	2	0	2
+hdbtm_rest__regression_suite	52	0	52
+ivps	15	0	15
+lz-ui-e2e__base_chromium	35	0	35
+lz-ui-e2e__dataset_chromium	83	0	83
+lz-ui-e2e__job_chromium	17	0	17
+lz-ui-e2e__lte-resource_chromium	81	0	81
+lz-ui-e2e__lte_chromium	51	0	51
+lz-ui-e2e__migrate_chromium	8	0	8
+lz-ui-e2e__relational_chromium	37	0	37
+lz-ui-e2e__security_chromium	142	0	142
+lz-ui-unit	3522	0	3522
+lzcompiler__COBOL-native	588	0	588
+lzcompiler__COBOLRaincode-native	902	0	902
+lzcompiler__COBOLRaincodeSQL-native	58	0	58
+lzcompiler__PLI-native	694	0	694
+lzcompiler__PLIRaincode-native	2126	0	2126
+lzcompiler__PLIRaincodeSQL-native	161	0	161
+lzh2r__db_import	7	0	7
+lzh2r__dbd_psblib	14	0	14
+lzh2r__hdb_dlt0	9	0	9
+lzh2r__hdb_migrate	13	0	13
+lzh2r__migrate	8	0	8
+lzh2r__util_cntl	14	0	14
+lzoc__lzoc1	495	0	495
+lzoc__lzoc2	539	0	539
+lzoc__lzoc3	16	0	16
+lzrqa__batch1	40	0	40
+lzrqa__batch2	26	0	26
+lzrqa__batch3	16	0	16
+lzrqa__batch4	5	0	5
+lzrqa__batch5	14	0	14
+lzrqa__ddl1	71	0	71
+lzrqa__ddl2	67	0	67
+lzrqa__ddl3	63	0	63
+lzrqa__ddl4	65	0	65
+lzrqa__ddl5	76	0	76
+lzrqa__ddl6	15	0	15
+lzrqa__drda1	104	0	104
+lzrqa__drda2	111	0	111
+lzrqa__odbc	754	0	754
+lzrqa__sql1	323	0	323
+lzrqa__sql2	113	0	113
+lzrqa__sql3	15	0	15
+lzrqa__sql4	366	0	366
+lzrqasec__lzrsec1	65	0	65
+lzrqasec__lzrsec2	63	0	63
+lzvault_administration__default-db	7	0	7
+lzvault_administration__large-db	13	0	13
+lzvault_gtest	1172	0	1172
+lzvault_junit	31	0	31
+lzvault_large_db	180	0	180
+lzvault_lnx_integration	744	0	744
+lzvault_migration	4722	0	4722
+lzvault_multi_ldap	110	0	110
+lzvault_rdb_cleanup	5	0	5
+lzweb_gtest	326	0	326
+mtlzo	16	0	16
+multi_nje	6	0	6
+rdb	436	0	436
+regr-core__Basicio	19	0	19
+regr-core__core-regression-1	94	0	94
+regr-core__core-regression-2	62	0	62
+regr-core__core-regression-3	59	0	59
+regr-lang__COBOL-regression	781	0	781
+regr-lang__COBOL-regression-incrcomp	780	0	780
+regr-lang__COBOL52-regression	472	0	472
+regr-lang__COBOL52-regression-incrcomp	472	0	472
+regr-lang__COBOL62-regression	344	0	344
+regr-lang__COBOLRaincode-regression	359	0	359
+regr-lang__PLI-regression	727	0	727
+regr-lang__PLI-regression-incrcomp	727	0	727
+regr-lang__PLIRaincode-regression	1158	0	1158
+regr-lang__REXX	87	0	87
+regr-lang__c370-regression	91	0	91
+regr-lang__c370-regression-incrcomp	91	0	91
+regr-mig__mig-regression	17	0	17
+regr-util__FILEAID	10	0	10
+regr-util__Sort-A	26	0	26
+regr-util__Sort-B	23	0	23
+regr-util__Sort-C	24	0	24
+regr-util__util-sys-regression	111	0	111
+regr-web__web-regression	39	0	39
+regr-web__web-regression2	37	0	37
+regr-web__web-security	16	0	16
+rft	25	0	25
+sopra	3	0	3
+static-build	1	0	1
+tpccrdbc	5	0	5
+tpccvc	5	0	5
+ut-build	1	0	1
+TOTAL	26841	0	26841
+You can find explanation of result here: https://confluence.lzlabs.com/display/bd/Regression+tests+on+GTH
+
+
+You can access the related jenkins job by clicking on the "tests suite" name in the table above.
+
+You must be already logged in jenkins to get the relaunch links work.
+
+
+The tested RPMs were built from: https://jenkins-tng.lzlabs.com/job/BUILD-run/53355/
